@@ -1,2 +1,3 @@
 # rachel-conversion
-practice from SDSCSI 2017
+
+* git class at SDSCSI 2017
